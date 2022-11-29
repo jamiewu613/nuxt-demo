@@ -10,5 +10,7 @@
   "devDependencies": {
     "nuxt": "3.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "vuetify": "^3"
+  }
 }

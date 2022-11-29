@@ -14,6 +14,7 @@
     "@mdi/font": "^7.0.96",
     "@nuxtjs-alt/proxy": "^2.1.0",
     "sass": "^1.56.1",
+    "vite-plugin-vuetify": "^1.0.0",
     "vuetify": "^3"
   }
 }
